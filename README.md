@@ -28,7 +28,7 @@
   <a href="mailto:fahrioctavian15te2.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://instagram.com/fahri.oktav" target="_blank">
+  <a href="https://instagram.com/fhrioctvn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
